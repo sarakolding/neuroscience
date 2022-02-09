@@ -1,7 +1,7 @@
 Hello!
 
 
-In this text file I will create a merge conflict by changing this word: orange
+In this text file I will create a merge conflict by changing this word: cucumber
 
 
 Have a nice day!
