@@ -2,7 +2,7 @@ Hello!
 
 
 
-In this text file I will create a merge conflict by changing this word: apple
+In this text file I will create a merge conflict by changing this word: potato
 
 
 Have a nice day!
