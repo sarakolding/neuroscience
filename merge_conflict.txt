@@ -7,3 +7,6 @@ In this text file I will create a merge conflict by changing this word: greenpul
 
 
 Have a nice day!
+
+
+See you soon.
