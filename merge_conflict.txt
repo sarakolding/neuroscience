@@ -2,11 +2,8 @@ Hello!
 
 
 
-In this text file I will create a merge conflict by changing this word: greenpull
+In this text file I will create a merge conflict by changing this word: green
 
 
 
 Have a nice day!
-
-
-See you soon.
